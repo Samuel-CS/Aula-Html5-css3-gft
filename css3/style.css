@@ -1,0 +1,52 @@
+
+body {
+    background:grey ;
+    margin-left: 50px;
+    margin-right: 35px;
+
+}
+
+
+header {
+    margin-top: 050px;
+
+}
+
+h1 {
+    color: rgb(31, 61, 60);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2 {
+    color: indigo;
+    font-family: 'Franklin Gothic Medium';
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+footer {
+    margin-left: 650px;
+    margin-right: 650px;
+}
+
+.imgTeste {
+    margin-top: 2.5cm;
+    margin-bottom: 4cm;
+    margin-left: 2.5cm;
+}
+
+.seila {
+    color: hotpink;
+}
+
+.centro {
+    margin-left: 180px;
+    margin-right: 120px;
+}
+
+
